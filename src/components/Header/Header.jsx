@@ -23,7 +23,10 @@ export default class Header extends Component {
                 </a>
               </li>
               <li>
-                <a className='smoothscroll' href='#resume'>
+                <a
+                  className='smoothscroll'
+                  href='https://docs.google.com/document/d/1Eb9zLpDQoFK1mUaTuUeR7AMkou58H8Kyjj2EN5e3z_E/edit?usp=sharing'
+                >
                   Resume
                 </a>
               </li>
